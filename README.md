@@ -1,4 +1,6 @@
 ### Hi there 👋
+- Checkout my website : https://dirzaaulia.com
+- 🔭 I’m currently working on https://github.com/dirzaaulia/Countries
 
 <!--
 **dirzaaulia/dirzaaulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
