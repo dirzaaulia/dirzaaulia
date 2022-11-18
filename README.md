@@ -55,7 +55,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/dirzaaulia/dirzaaulia/blob/output/snake.svg" alt="Snake animation" />
-
-###
