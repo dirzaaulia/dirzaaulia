@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dirza Aulia</h1>
 
-- 🔭 I’m currently working on Yomiru, Anime and Manga app for Android built with Jetpack Compose using the latest tech stack available.
+- 🔭 I’m currently working on Yomiru, Anime and Manga app for Android built with Jetpack Compose using the latest tech stack available. I'm also working on to build my personal web using Jetpack Compose for Web that build based on Kotlin/WASM.
 
 - 👨‍💻 All of my projects are available at [https://dirzaaulia.com](https://dirzaaulia.com)
 
