@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on Yomiru, Anime and Manga app for Android built with Jetpack Compose using the latest tech stack available. I'm also working on to build my personal web using Jetpack Compose for Web that build based on Kotlin/WASM.
 
+- Checkout all my public app that available on [Google Play Store](https://play.google.com/store/apps/dev?id=4806849608818858118)
+
 - 👨‍💻 All of my projects are available at [https://dirzaaulia.com](https://dirzaaulia.com)
 
 - 💬 Ask me about **Android, Kotlin**
