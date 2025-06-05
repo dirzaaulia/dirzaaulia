@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dirza Aulia</h1>
 
-- 🔭 I’m currently working on [Football Clips & Live Score](https://play.google.com/store/apps/details?id=com.dirzaaulia.footballclips)
+- 🔭 I’m currently working on Yomiru, Anime and Manga app for Android built with Jetpack Compose using the latest tech stack available.
 
 - 👨‍💻 All of my projects are available at [https://dirzaaulia.com](https://dirzaaulia.com)
 
